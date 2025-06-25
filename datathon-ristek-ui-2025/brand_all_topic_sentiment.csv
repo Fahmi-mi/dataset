@@ -1,0 +1,883 @@
+brand,brand_topic_num,brand_topic_name,brand_positive,brand_neutral,brand_negative
+3Second,0,"brand, indonesia, yg",0.957916796207428,0.9656994354050115,0.0
+3Second,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+3Second,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+3Second,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+3Second,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+3Second,5,"goooo, umurnya, bar",0.0,0.0,0.0
+3Second,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+3Second,7,"sirah, live, menghadang",0.0,0.0,0.0
+3Second,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+AXA Mandiri,0,"brand, indonesia, yg",0.0,0.0,0.0
+AXA Mandiri,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+AXA Mandiri,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+AXA Mandiri,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+AXA Mandiri,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+AXA Mandiri,5,"goooo, umurnya, bar",0.0,0.0,0.0
+AXA Mandiri,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+AXA Mandiri,7,"sirah, live, menghadang",0.0,0.0,0.0
+AXA Mandiri,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Advan,0,"brand, indonesia, yg",0.0,0.0,0.0
+Advan,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Advan,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Advan,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Advan,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Advan,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Advan,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Advan,7,"sirah, live, menghadang",0.0,0.0,0.0
+Advan,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Allianz,0,"brand, indonesia, yg",0.0,0.0,0.0
+Allianz,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Allianz,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Allianz,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Allianz,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Allianz,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Allianz,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Allianz,7,"sirah, live, menghadang",0.0,0.0,0.0
+Allianz,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Anteraja,0,"brand, indonesia, yg",0.9449245929718018,0.9557308480143547,0.0
+Anteraja,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Anteraja,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Anteraja,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Anteraja,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Anteraja,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Anteraja,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Anteraja,7,"sirah, live, menghadang",0.0,0.0,0.0
+Anteraja,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Aqua,0,"brand, indonesia, yg",0.9385164561478988,0.9388013196663118,0.871689518292745
+Aqua,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Aqua,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Aqua,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Aqua,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Aqua,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Aqua,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Aqua,7,"sirah, live, menghadang",0.0,0.0,0.0
+Aqua,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Asuransi Astra,0,"brand, indonesia, yg",0.0,0.0,0.0
+Asuransi Astra,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Asuransi Astra,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Asuransi Astra,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Asuransi Astra,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Asuransi Astra,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Asuransi Astra,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Asuransi Astra,7,"sirah, live, menghadang",0.0,0.0,0.0
+Asuransi Astra,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Axioo,0,"brand, indonesia, yg",0.0,0.0,0.0
+Axioo,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Axioo,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Axioo,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Axioo,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Axioo,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Axioo,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Axioo,7,"sirah, live, menghadang",0.0,0.0,0.0
+Axioo,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+BCA Digital,0,"brand, indonesia, yg",0.5262402296066284,0.9919118881225586,0.0
+BCA Digital,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+BCA Digital,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+BCA Digital,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+BCA Digital,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+BCA Digital,5,"goooo, umurnya, bar",0.0,0.0,0.0
+BCA Digital,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+BCA Digital,7,"sirah, live, menghadang",0.0,0.0,0.0
+BCA Digital,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+BNI,0,"brand, indonesia, yg",0.0,0.0,0.0
+BNI,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+BNI,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+BNI,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+BNI,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+BNI,5,"goooo, umurnya, bar",0.0,0.0,0.0
+BNI,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+BNI,7,"sirah, live, menghadang",0.0,0.0,0.0
+BNI,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+BRI,0,"brand, indonesia, yg",0.0,0.0,0.0
+BRI,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+BRI,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+BRI,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+BRI,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+BRI,5,"goooo, umurnya, bar",0.0,0.0,0.0
+BRI,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+BRI,7,"sirah, live, menghadang",0.0,0.0,0.0
+BRI,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Bank BCA,0,"brand, indonesia, yg",0.0,0.0,0.0
+Bank BCA,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Bank BCA,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Bank BCA,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Bank BCA,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Bank BCA,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Bank BCA,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Bank BCA,7,"sirah, live, menghadang",0.0,0.0,0.0
+Bank BCA,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Bank Jago,0,"brand, indonesia, yg",0.0,0.0,0.0
+Bank Jago,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Bank Jago,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Bank Jago,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Bank Jago,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Bank Jago,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Bank Jago,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Bank Jago,7,"sirah, live, menghadang",0.0,0.0,0.0
+Bank Jago,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Bank Mandiri,0,"brand, indonesia, yg",0.0,0.0,0.0
+Bank Mandiri,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Bank Mandiri,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Bank Mandiri,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Bank Mandiri,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Bank Mandiri,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Bank Mandiri,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Bank Mandiri,7,"sirah, live, menghadang",0.0,0.0,0.0
+Bank Mandiri,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Bardi,0,"brand, indonesia, yg",0.0,0.0,0.0
+Bardi,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Bardi,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Bardi,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Bardi,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Bardi,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Bardi,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Bardi,7,"sirah, live, menghadang",0.0,0.0,0.0
+Bardi,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Baygon,0,"brand, indonesia, yg",0.7750398914019266,0.8888286501169205,0.0
+Baygon,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Baygon,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Baygon,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Baygon,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Baygon,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Baygon,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Baygon,7,"sirah, live, menghadang",0.0,0.0,0.0
+Baygon,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Biznet,0,"brand, indonesia, yg",0.0,0.0,0.0
+Biznet,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Biznet,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Biznet,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Biznet,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Biznet,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Biznet,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Biznet,7,"sirah, live, menghadang",0.0,0.0,0.0
+Biznet,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Blibli,0,"brand, indonesia, yg",0.9370039822691578,0.9260397676340083,0.8884853720664978
+Blibli,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Blibli,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Blibli,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Blibli,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Blibli,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Blibli,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Blibli,7,"sirah, live, menghadang",0.0,0.0,0.0
+Blibli,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Brodo,0,"brand, indonesia, yg",0.966615746418635,0.9710730612277985,0.0
+Brodo,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Brodo,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Brodo,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Brodo,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Brodo,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Brodo,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Brodo,7,"sirah, live, menghadang",0.0,0.0,0.0
+Brodo,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Bukalapak,0,"brand, indonesia, yg",0.8969680070877075,0.9709563123715388,0.9940123558044434
+Bukalapak,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Bukalapak,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Bukalapak,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Bukalapak,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Bukalapak,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Bukalapak,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Bukalapak,7,"sirah, live, menghadang",0.0,0.0,0.0
+Bukalapak,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Chitato,0,"brand, indonesia, yg",0.8456650111410353,0.9123863790716443,0.9990500807762146
+Chitato,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Chitato,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Chitato,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Chitato,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Chitato,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Chitato,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Chitato,7,"sirah, live, menghadang",0.0,0.0,0.0
+Chitato,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Cimory,0,"brand, indonesia, yg",0.9682448208332062,0.9805269837379456,0.9671977758407593
+Cimory,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Cimory,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Cimory,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Cimory,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Cimory,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Cimory,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Cimory,7,"sirah, live, menghadang",0.0,0.0,0.0
+Cimory,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Cottonology,0,"brand, indonesia, yg",0.0,0.0,0.0
+Cottonology,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Cottonology,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Cottonology,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Cottonology,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Cottonology,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Cottonology,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Cottonology,7,"sirah, live, menghadang",0.0,0.0,0.0
+Cottonology,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Daia,0,"brand, indonesia, yg",0.9839920997619629,0.9713965853055319,0.0
+Daia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Daia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Daia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Daia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Daia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Daia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Daia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Daia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Damn! I Love Indonesia,0,"brand, indonesia, yg",0.9774957497914633,0.9471441760207667,0.0
+Damn! I Love Indonesia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Damn! I Love Indonesia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Damn! I Love Indonesia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Damn! I Love Indonesia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Damn! I Love Indonesia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Damn! I Love Indonesia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Damn! I Love Indonesia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Damn! I Love Indonesia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Dana,0,"brand, indonesia, yg",0.9325820505619049,0.9751483696572324,0.8430615812540054
+Dana,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Dana,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Dana,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Dana,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Dana,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Dana,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Dana,7,"sirah, live, menghadang",0.0,0.0,0.0
+Dana,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Emina,0,"brand, indonesia, yg",0.9014545171349136,0.9431515167921017,0.8073316812515259
+Emina,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Emina,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Emina,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Emina,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Emina,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Emina,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Emina,7,"sirah, live, menghadang",0.0,0.0,0.0
+Emina,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Erigo,0,"brand, indonesia, yg",0.8976824151145087,0.9882249701023101,0.0
+Erigo,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Erigo,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Erigo,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Erigo,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Erigo,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Erigo,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Erigo,7,"sirah, live, menghadang",0.0,0.0,0.0
+Erigo,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Evercoss,0,"brand, indonesia, yg",0.0,0.0,0.0
+Evercoss,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Evercoss,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Evercoss,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Evercoss,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Evercoss,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Evercoss,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Evercoss,7,"sirah, live, menghadang",0.0,0.0,0.0
+Evercoss,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Flip,0,"brand, indonesia, yg",0.9471425196019615,0.9522398050342288,0.0
+Flip,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Flip,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Flip,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Flip,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Flip,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Flip,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Flip,7,"sirah, live, menghadang",0.0,0.0,0.0
+Flip,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Frestea,0,"brand, indonesia, yg",0.8922858834266663,0.9955872297286987,0.9990399479866028
+Frestea,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Frestea,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Frestea,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Frestea,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Frestea,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Frestea,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Frestea,7,"sirah, live, menghadang",0.0,0.0,0.0
+Frestea,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Garuda Indonesia,0,"brand, indonesia, yg",0.8801571689546108,0.93205320644073,0.7853940427303314
+Garuda Indonesia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Garuda Indonesia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Garuda Indonesia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Garuda Indonesia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Garuda Indonesia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Garuda Indonesia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Garuda Indonesia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Garuda Indonesia,8,"evercoss, asean, berbagi",0.8801571689546108,0.93205320644073,0.7853940427303314
+Geoff Max,0,"brand, indonesia, yg",0.8105128506819407,0.9777332246303558,0.0
+Geoff Max,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Geoff Max,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Geoff Max,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Geoff Max,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Geoff Max,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Geoff Max,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Geoff Max,7,"sirah, live, menghadang",0.0,0.0,0.0
+Geoff Max,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Gojek,0,"brand, indonesia, yg",0.9404547927172288,0.9603727757930756,0.8147971406579018
+Gojek,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Gojek,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Gojek,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Gojek,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Gojek,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Gojek,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Gojek,7,"sirah, live, menghadang",0.0,0.0,0.0
+Gojek,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Good Day,0,"brand, indonesia, yg",0.9115680000361275,0.9109895695810732,0.8447423577308655
+Good Day,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Good Day,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Good Day,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Good Day,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Good Day,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Good Day,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Good Day,7,"sirah, live, menghadang",0.0,0.0,0.0
+Good Day,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Gopay,0,"brand, indonesia, yg",0.8380308270454406,0.9088189091001239,0.0
+Gopay,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Gopay,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Gopay,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Gopay,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Gopay,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Gopay,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Gopay,7,"sirah, live, menghadang",0.0,0.0,0.0
+Gopay,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Grab,0,"brand, indonesia, yg",0.9173602272163738,0.9176833665193017,0.9208971410989761
+Grab,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Grab,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Grab,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Grab,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Grab,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Grab,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Grab,7,"sirah, live, menghadang",0.0,0.0,0.0
+Grab,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Greenfields,0,"brand, indonesia, yg",0.854305911064148,0.9470490983554295,0.0
+Greenfields,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Greenfields,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Greenfields,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Greenfields,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Greenfields,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Greenfields,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Greenfields,7,"sirah, live, menghadang",0.0,0.0,0.0
+Greenfields,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Hammer,0,"brand, indonesia, yg",0.888284968478339,0.9594513479574227,0.9984866380691528
+Hammer,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Hammer,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Hammer,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Hammer,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Hammer,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Hammer,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Hammer,7,"sirah, live, menghadang",0.0,0.0,0.0
+Hammer,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Hit,0,"brand, indonesia, yg",0.9597756703694661,0.9792653593150052,0.9108335177103678
+Hit,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Hit,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Hit,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Hit,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Hit,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Hit,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Hit,7,"sirah, live, menghadang",0.0,0.0,0.0
+Hit,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+IndiHome,0,"brand, indonesia, yg",0.0,0.0,0.0
+IndiHome,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+IndiHome,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+IndiHome,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+IndiHome,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+IndiHome,5,"goooo, umurnya, bar",0.0,0.0,0.0
+IndiHome,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+IndiHome,7,"sirah, live, menghadang",0.0,0.0,0.0
+IndiHome,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Indomie,0,"brand, indonesia, yg",0.966830708410429,0.9245960559955863,0.8989390216090463
+Indomie,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Indomie,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Indomie,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Indomie,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Indomie,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Indomie,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Indomie,7,"sirah, live, menghadang",0.0,0.0,0.0
+Indomie,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+J&T Express,0,"brand, indonesia, yg",0.9389449242622622,0.9559833543996016,0.9000978708267212
+J&T Express,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+J&T Express,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+J&T Express,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+J&T Express,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+J&T Express,5,"goooo, umurnya, bar",0.0,0.0,0.0
+J&T Express,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+J&T Express,7,"sirah, live, menghadang",0.0,0.0,0.0
+J&T Express,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+JD.ID,0,"brand, indonesia, yg",0.9037457166648493,0.8832824852155603,0.9218079745769501
+JD.ID,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+JD.ID,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+JD.ID,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+JD.ID,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+JD.ID,5,"goooo, umurnya, bar",0.0,0.0,0.0
+JD.ID,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+JD.ID,7,"sirah, live, menghadang",0.0,0.0,0.0
+JD.ID,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Jenius,0,"brand, indonesia, yg",0.8316184282302856,0.9821366288445212,0.8770096898078918
+Jenius,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Jenius,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Jenius,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Jenius,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Jenius,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Jenius,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Jenius,7,"sirah, live, menghadang",0.0,0.0,0.0
+Jenius,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Kahf,0,"brand, indonesia, yg",0.9156308902634515,0.9108447088645055,0.8624431908130645
+Kahf,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Kahf,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Kahf,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Kahf,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Kahf,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Kahf,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Kahf,7,"sirah, live, menghadang",0.0,0.0,0.0
+Kahf,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Kopi Kapal Api,0,"brand, indonesia, yg",0.961491048336029,0.9167761260812933,0.7907778322696686
+Kopi Kapal Api,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Kopi Kapal Api,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Kopi Kapal Api,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Kopi Kapal Api,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Kopi Kapal Api,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Kopi Kapal Api,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Kopi Kapal Api,7,"sirah, live, menghadang",0.0,0.0,0.0
+Kopi Kapal Api,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Lazada,0,"brand, indonesia, yg",0.9085103839635849,0.960050458603717,0.7805843353271484
+Lazada,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Lazada,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Lazada,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Lazada,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Lazada,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Lazada,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Lazada,7,"sirah, live, menghadang",0.0,0.0,0.0
+Lazada,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Le Minerale,0,"brand, indonesia, yg",0.8715973182728416,0.9188438195448655,0.8861170649528504
+Le Minerale,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Le Minerale,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Le Minerale,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Le Minerale,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Le Minerale,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Le Minerale,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Le Minerale,7,"sirah, live, menghadang",0.0,0.0,0.0
+Le Minerale,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+LinkAja,0,"brand, indonesia, yg",0.8283868134021759,0.7504907846450806,0.0
+LinkAja,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+LinkAja,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+LinkAja,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+LinkAja,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+LinkAja,5,"goooo, umurnya, bar",0.0,0.0,0.0
+LinkAja,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+LinkAja,7,"sirah, live, menghadang",0.0,0.0,0.0
+LinkAja,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Lion Air,0,"brand, indonesia, yg",0.9356697797775269,0.9349925294518471,0.9743034839630127
+Lion Air,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Lion Air,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Lion Air,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Lion Air,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Lion Air,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Lion Air,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Lion Air,7,"sirah, live, menghadang",0.0,0.0,0.0
+Lion Air,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Livin' by Mandiri,0,"brand, indonesia, yg",0.9254186868667602,0.9941507577896118,0.9975376129150391
+Livin' by Mandiri,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Livin' by Mandiri,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Livin' by Mandiri,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Livin' by Mandiri,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Livin' by Mandiri,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Livin' by Mandiri,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Livin' by Mandiri,7,"sirah, live, menghadang",0.0,0.0,0.0
+Livin' by Mandiri,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Lois Indonesia,0,"brand, indonesia, yg",0.776848038037618,0.7099618688225746,0.0
+Lois Indonesia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Lois Indonesia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Lois Indonesia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Lois Indonesia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Lois Indonesia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Lois Indonesia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Lois Indonesia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Lois Indonesia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+MS Glow,0,"brand, indonesia, yg",0.8633874527045658,0.9413009039733721,0.8476368561387062
+MS Glow,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+MS Glow,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+MS Glow,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+MS Glow,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+MS Glow,5,"goooo, umurnya, bar",0.0,0.0,0.0
+MS Glow,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+MS Glow,7,"sirah, live, menghadang",0.0,0.0,0.0
+MS Glow,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Make Over,0,"brand, indonesia, yg",0.9244672507047653,0.9502032326929497,0.9079466760158539
+Make Over,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Make Over,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Make Over,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Make Over,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Make Over,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Make Over,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Make Over,7,"sirah, live, menghadang",0.0,0.0,0.0
+Make Over,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Mama Lemon,0,"brand, indonesia, yg",0.7914265990257263,0.9792829155921936,0.0
+Mama Lemon,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Mama Lemon,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Mama Lemon,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Mama Lemon,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Mama Lemon,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Mama Lemon,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Mama Lemon,7,"sirah, live, menghadang",0.0,0.0,0.0
+Mama Lemon,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Mie Sedaap,0,"brand, indonesia, yg",0.8870584145188332,0.9481373589772445,0.935955822467804
+Mie Sedaap,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Mie Sedaap,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Mie Sedaap,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Mie Sedaap,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Mie Sedaap,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Mie Sedaap,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Mie Sedaap,7,"sirah, live, menghadang",0.0,0.0,0.0
+Mie Sedaap,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Monstore,0,"brand, indonesia, yg",0.8259839713573456,0.9341517175946917,0.0
+Monstore,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Monstore,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Monstore,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Monstore,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Monstore,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Monstore,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Monstore,7,"sirah, live, menghadang",0.0,0.0,0.0
+Monstore,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+MyRepublic Indonesia,0,"brand, indonesia, yg",0.0,0.0,0.0
+MyRepublic Indonesia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+MyRepublic Indonesia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+MyRepublic Indonesia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+MyRepublic Indonesia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+MyRepublic Indonesia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+MyRepublic Indonesia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+MyRepublic Indonesia,7,"sirah, live, menghadang",0.0,0.0,0.0
+MyRepublic Indonesia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Nescafe,0,"brand, indonesia, yg",0.9226306656311298,0.9358857549153842,0.9689855575561523
+Nescafe,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Nescafe,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Nescafe,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Nescafe,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Nescafe,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Nescafe,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Nescafe,7,"sirah, live, menghadang",0.0,0.0,0.0
+Nescafe,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+OVO,0,"brand, indonesia, yg",0.8166631013154984,0.9887140542268753,0.0
+OVO,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+OVO,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+OVO,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+OVO,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+OVO,5,"goooo, umurnya, bar",0.0,0.0,0.0
+OVO,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+OVO,7,"sirah, live, menghadang",0.0,0.0,0.0
+OVO,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Orami,0,"brand, indonesia, yg",0.9120333957672119,0.907092197374864,0.8167946934700012
+Orami,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Orami,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Orami,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Orami,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Orami,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Orami,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Orami,7,"sirah, live, menghadang",0.0,0.0,0.0
+Orami,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Pegadaian,0,"brand, indonesia, yg",0.0,0.0,0.0
+Pegadaian,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Pegadaian,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Pegadaian,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Pegadaian,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Pegadaian,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Pegadaian,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Pegadaian,7,"sirah, live, menghadang",0.0,0.0,0.0
+Pegadaian,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Polytron,0,"brand, indonesia, yg",0.0,0.0,0.0
+Polytron,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Polytron,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Polytron,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Polytron,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Polytron,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Polytron,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Polytron,7,"sirah, live, menghadang",0.0,0.0,0.0
+Polytron,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Pop Mie,0,"brand, indonesia, yg",0.9153326004743576,0.843615452448527,0.9551931023597717
+Pop Mie,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Pop Mie,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Pop Mie,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Pop Mie,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Pop Mie,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Pop Mie,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Pop Mie,7,"sirah, live, menghadang",0.0,0.0,0.0
+Pop Mie,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Pos Indonesia,0,"brand, indonesia, yg",0.9503822579775771,0.9142017341354518,0.968435138463974
+Pos Indonesia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Pos Indonesia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Pos Indonesia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Pos Indonesia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Pos Indonesia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Pos Indonesia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Pos Indonesia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Pos Indonesia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Prudential Indonesia,0,"brand, indonesia, yg",0.0,0.0,0.0
+Prudential Indonesia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Prudential Indonesia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Prudential Indonesia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Prudential Indonesia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Prudential Indonesia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Prudential Indonesia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Prudential Indonesia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Prudential Indonesia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Purbasari,0,"brand, indonesia, yg",0.9340252096836383,0.9297788189007685,0.0
+Purbasari,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Purbasari,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Purbasari,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Purbasari,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Purbasari,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Purbasari,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Purbasari,7,"sirah, live, menghadang",0.0,0.0,0.0
+Purbasari,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Qtela,0,"brand, indonesia, yg",0.0,0.8620136380195618,0.0
+Qtela,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Qtela,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Qtela,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Qtela,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Qtela,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Qtela,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Qtela,7,"sirah, live, menghadang",0.0,0.0,0.0
+Qtela,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Ralali,0,"brand, indonesia, yg",0.0,0.0,0.0
+Ralali,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Ralali,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Ralali,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Ralali,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Ralali,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Ralali,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Ralali,7,"sirah, live, menghadang",0.0,0.0,0.0
+Ralali,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Rinso,0,"brand, indonesia, yg",0.9488580425580343,0.9917064640257094,0.9692647258440653
+Rinso,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Rinso,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Rinso,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Rinso,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Rinso,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Rinso,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Rinso,7,"sirah, live, menghadang",0.0,0.0,0.0
+Rinso,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+SariWangi,0,"brand, indonesia, yg",0.9051452438036601,0.9377733013209175,0.9986403584480286
+SariWangi,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+SariWangi,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+SariWangi,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+SariWangi,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+SariWangi,5,"goooo, umurnya, bar",0.0,0.0,0.0
+SariWangi,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+SariWangi,7,"sirah, live, menghadang",0.0,0.0,0.0
+SariWangi,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Sariayu Martha Tilaar,0,"brand, indonesia, yg",0.8719986900687218,0.9041745385953358,0.0
+Sariayu Martha Tilaar,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Sariayu Martha Tilaar,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Sariayu Martha Tilaar,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Sariayu Martha Tilaar,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Sariayu Martha Tilaar,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Sariayu Martha Tilaar,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Sariayu Martha Tilaar,7,"sirah, live, menghadang",0.0,0.0,0.0
+Sariayu Martha Tilaar,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Scarlett Whitening,0,"brand, indonesia, yg",0.8858614478792463,0.9658662676811218,0.9965841770172119
+Scarlett Whitening,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Scarlett Whitening,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Scarlett Whitening,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Scarlett Whitening,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Scarlett Whitening,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Scarlett Whitening,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Scarlett Whitening,7,"sirah, live, menghadang",0.0,0.0,0.0
+Scarlett Whitening,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+SeaBank,0,"brand, indonesia, yg",0.8041214048862457,0.9894901911417643,0.9729161858558655
+SeaBank,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+SeaBank,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+SeaBank,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+SeaBank,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+SeaBank,5,"goooo, umurnya, bar",0.0,0.0,0.0
+SeaBank,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+SeaBank,7,"sirah, live, menghadang",0.0,0.0,0.0
+SeaBank,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Shopee,0,"brand, indonesia, yg",0.9911306500434875,0.9248633086681366,0.0
+Shopee,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Shopee,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Shopee,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Shopee,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Shopee,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Shopee,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Shopee,7,"sirah, live, menghadang",0.0,0.0,0.0
+Shopee,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+SiCepat,0,"brand, indonesia, yg",0.7607234716415405,0.9573750822774826,0.9968572457631429
+SiCepat,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+SiCepat,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+SiCepat,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+SiCepat,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+SiCepat,5,"goooo, umurnya, bar",0.0,0.0,0.0
+SiCepat,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+SiCepat,7,"sirah, live, menghadang",0.0,0.0,0.0
+SiCepat,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+SilverQueen,0,"brand, indonesia, yg",0.8941037356853485,0.8646107494831086,0.0
+SilverQueen,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+SilverQueen,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+SilverQueen,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+SilverQueen,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+SilverQueen,5,"goooo, umurnya, bar",0.0,0.0,0.0
+SilverQueen,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+SilverQueen,7,"sirah, live, menghadang",0.0,0.0,0.0
+SilverQueen,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Smartfren,0,"brand, indonesia, yg",0.0,0.0,0.0
+Smartfren,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Smartfren,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Smartfren,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Smartfren,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Smartfren,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Smartfren,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Smartfren,7,"sirah, live, menghadang",0.0,0.0,0.0
+Smartfren,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+So Klin,0,"brand, indonesia, yg",0.0,0.9481957435607911,0.0
+So Klin,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+So Klin,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+So Klin,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+So Klin,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+So Klin,5,"goooo, umurnya, bar",0.0,0.0,0.0
+So Klin,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+So Klin,7,"sirah, live, menghadang",0.0,0.0,0.0
+So Klin,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+So Nice,0,"brand, indonesia, yg",0.8059886246919632,0.9490511976182461,0.0
+So Nice,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+So Nice,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+So Nice,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+So Nice,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+So Nice,5,"goooo, umurnya, bar",0.0,0.0,0.0
+So Nice,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+So Nice,7,"sirah, live, menghadang",0.0,0.0,0.0
+So Nice,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Sociolla,0,"brand, indonesia, yg",0.9331147262924596,0.8739176041939679,0.7385509759187698
+Sociolla,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Sociolla,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Sociolla,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Sociolla,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Sociolla,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Sociolla,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Sociolla,7,"sirah, live, menghadang",0.0,0.0,0.0
+Sociolla,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Somethinc,0,"brand, indonesia, yg",0.9337904844965254,0.954969667840278,0.6674636602401733
+Somethinc,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Somethinc,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Somethinc,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Somethinc,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Somethinc,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Somethinc,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Somethinc,7,"sirah, live, menghadang",0.0,0.0,0.0
+Somethinc,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Sosro,0,"brand, indonesia, yg",0.8840356568495432,0.9347070306539536,0.0
+Sosro,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Sosro,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Sosro,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Sosro,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Sosro,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Sosro,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Sosro,7,"sirah, live, menghadang",0.0,0.0,0.0
+Sosro,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Sunlight,0,"brand, indonesia, yg",0.9305615254810878,0.938216857612133,0.9955116510391235
+Sunlight,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Sunlight,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Sunlight,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Sunlight,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Sunlight,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Sunlight,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Sunlight,7,"sirah, live, menghadang",0.0,0.0,0.0
+Sunlight,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Tango,0,"brand, indonesia, yg",0.7287186734816608,0.9682140946388245,0.0
+Tango,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Tango,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Tango,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Tango,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Tango,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Tango,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Tango,7,"sirah, live, menghadang",0.0,0.0,0.0
+Tango,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+The Executive,0,"brand, indonesia, yg",0.894692674279213,0.9480441710616969,0.0
+The Executive,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+The Executive,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+The Executive,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+The Executive,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+The Executive,5,"goooo, umurnya, bar",0.0,0.0,0.0
+The Executive,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+The Executive,7,"sirah, live, menghadang",0.0,0.0,0.0
+The Executive,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Tiket.com,0,"brand, indonesia, yg",0.9662041068077087,0.9988428354263306,0.0
+Tiket.com,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Tiket.com,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Tiket.com,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Tiket.com,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Tiket.com,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Tiket.com,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Tiket.com,7,"sirah, live, menghadang",0.0,0.0,0.0
+Tiket.com,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Tokopedia,0,"brand, indonesia, yg",0.918343914521707,0.9432640307479434,0.9293314559119088
+Tokopedia,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Tokopedia,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Tokopedia,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Tokopedia,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Tokopedia,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Tokopedia,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Tokopedia,7,"sirah, live, menghadang",0.0,0.0,0.0
+Tokopedia,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Top Coffee,0,"brand, indonesia, yg",0.7182138562202454,0.914137085278829,0.9963659346103668
+Top Coffee,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Top Coffee,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Top Coffee,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Top Coffee,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Top Coffee,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Top Coffee,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Top Coffee,7,"sirah, live, menghadang",0.0,0.0,0.0
+Top Coffee,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Torabika,0,"brand, indonesia, yg",0.996550977230072,0.9938807884852091,0.4852006137371063
+Torabika,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Torabika,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Torabika,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Torabika,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Torabika,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Torabika,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Torabika,7,"sirah, live, menghadang",0.0,0.0,0.0
+Torabika,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Traveloka,0,"brand, indonesia, yg",0.8796136509882261,0.9459989813028598,0.9426293969154358
+Traveloka,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Traveloka,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Traveloka,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Traveloka,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Traveloka,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Traveloka,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Traveloka,7,"sirah, live, menghadang",0.0,0.0,0.0
+Traveloka,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Ultra Milk,0,"brand, indonesia, yg",0.9260395914316177,0.954300786058108,0.9993728995323181
+Ultra Milk,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Ultra Milk,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Ultra Milk,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Ultra Milk,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Ultra Milk,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Ultra Milk,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Ultra Milk,7,"sirah, live, menghadang",0.0,0.0,0.0
+Ultra Milk,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Viva Cosmetics,0,"brand, indonesia, yg",0.9010961140905108,0.8938666880130768,0.9865202903747559
+Viva Cosmetics,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Viva Cosmetics,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Viva Cosmetics,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Viva Cosmetics,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Viva Cosmetics,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Viva Cosmetics,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Viva Cosmetics,7,"sirah, live, menghadang",0.0,0.0,0.0
+Viva Cosmetics,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Wardah,0,"brand, indonesia, yg",0.9301186812420686,0.9420203955277152,0.9233079637799945
+Wardah,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Wardah,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Wardah,3,"tp201, vivobook, meluncur",0.9301186812420686,0.9420203955277152,0.9233079637799945
+Wardah,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Wardah,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Wardah,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Wardah,7,"sirah, live, menghadang",0.0,0.0,0.0
+Wardah,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Wings Group,0,"brand, indonesia, yg",0.6069304347038269,0.9617994651198387,0.0
+Wings Group,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Wings Group,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Wings Group,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Wings Group,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Wings Group,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Wings Group,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Wings Group,7,"sirah, live, menghadang",0.0,0.0,0.0
+Wings Group,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Zalora,0,"brand, indonesia, yg",0.9308217249504508,0.9444393102418293,0.9888869779450553
+Zalora,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Zalora,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Zalora,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Zalora,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Zalora,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Zalora,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Zalora,7,"sirah, live, menghadang",0.0,0.0,0.0
+Zalora,8,"evercoss, asean, berbagi",0.0,0.0,0.0
+Zyrex,0,"brand, indonesia, yg",0.0,0.0,0.0
+Zyrex,1,"fahardhi, rian, tiktok",0.0,0.0,0.0
+Zyrex,2,"gak, nadanya, ngejudge",0.0,0.0,0.0
+Zyrex,3,"tp201, vivobook, meluncur",0.0,0.0,0.0
+Zyrex,4,"bekti, indra, ssefmun",0.0,0.0,0.0
+Zyrex,5,"goooo, umurnya, bar",0.0,0.0,0.0
+Zyrex,6,"bernapas, dicari, dewa",0.0,0.0,0.0
+Zyrex,7,"sirah, live, menghadang",0.0,0.0,0.0
+Zyrex,8,"evercoss, asean, berbagi",0.0,0.0,0.0
